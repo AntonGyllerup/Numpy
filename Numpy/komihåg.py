@@ -1,0 +1,1 @@
+#input() ger str, för att få int måste du int(input())
